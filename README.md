@@ -5,3 +5,5 @@ The Sematic segmentation Model Predicts 19 Classes of Cityscape Dataset.
 ### Requirements
 
 `pip install -r requirement.txt`
+
+Still Working On it
