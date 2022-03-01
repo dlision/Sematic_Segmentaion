@@ -11,7 +11,7 @@ The Sematic Segmentation Model Predicts 19 Classes of Cityscape Dataset. This co
 * [Cityscape](https://github.com/dlision/Sematic_Segmentaion/blob/main/weights/hardnet70_cityscapes_model.pkl)
 
 
-### Sample Command
+### Sample Command to Run Inference on Folder of Images
 
 `python test.py --model_path weights/hardnet70_cityscapes_model.pkl --input sample_input/ --output sample_output/`
 
